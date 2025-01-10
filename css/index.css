@@ -707,14 +707,14 @@ input[type=checkbox]:checked+label .icon {
     -ms-flex-pack: center;
     justify-content: center;
     border-radius: 50%;
-    border: 2px solid #b38e6a;
+    border: 2px solid #1368b8;
     width: 50px;
     height: 50px;
     font-size: 12px
 }
 
 .swiper-nav--round .swiper-nav-item:hover {
-    color: #b38e6a
+    color: #1368b8
 }
 
 .swiper-overlay-nav {
@@ -743,7 +743,7 @@ input[type=checkbox]:checked+label .icon {
 
 .swiper-overlay-nav .nav-item:hover {
     color: #fff;
-    background: #b38e6a
+    background: #1368b8
 }
 
 .swiper-pagination {
@@ -770,7 +770,7 @@ input[type=checkbox]:checked+label .icon {
 }
 
 .swiper-pagination-bullet-active,.swiper-pagination-bullet:hover {
-    background: #b38e6a
+    background: #1368b8
 }
 
 .container {
@@ -1193,7 +1193,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"] {
 .header_nav .nav-link .icon:after,.header_nav .nav-link .icon:before {
     content: '';
     position: absolute;
-    background: #b38e6a
+    background: #1368b8
 }
 
 .header_nav .nav-link .icon:before {
